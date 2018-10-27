@@ -1,0 +1,2862 @@
+[
+   {
+      "value": "FOX",
+      "title": "Fox",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - X"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 50%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 50%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 55%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 60%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 60%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 65%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 60%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 60%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 50%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 60%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 65%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 60%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 70%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 70%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 70%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 70%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 70%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 80%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 70%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 80%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 80%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 80%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 70%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 90%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 80%"
+         }
+      ]
+   },
+   {
+      "value": "FALCO",
+      "title": "Falco",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 50%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - X"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 50%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 50%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 55%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 50%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 60%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 65%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 60%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 50%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 60%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 60%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 65%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 70%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 70%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 70%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 70%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 65%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 70%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 70%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 80%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 70%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 80%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 65%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 90%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 75%"
+         }
+      ]
+   },
+   {
+      "value": "MARTH",
+      "title": "Marth",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 50%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 50%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - X"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 55%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 50%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 60%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 60%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 50%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 50%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 60%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 70%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 55%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 65%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 65%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 75%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 65%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 70%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 60%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 80%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 80%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 80%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 80%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 80%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 65%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 80%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 80%"
+         }
+      ]
+   },
+   {
+      "value": "SHEIK",
+      "title": "Sheik",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 45%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 50%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 45%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - X"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 45%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 55%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 40%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 55%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 55%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 60%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 70%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 70%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 65%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 70%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 70%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 70%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 70%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 70%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 80%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 80%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 80%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 80%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 75%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 75%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 90%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 80%"
+         }
+      ]
+   },
+   {
+      "value": "JIGGLYPUFF",
+      "title": "Jigglypuff",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 40%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 45%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 50%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 55%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - X"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 65%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 55%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 50%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 65%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 65%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 60%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 60%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 60%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 65%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 70%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 60%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 70%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 65%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 70%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 70%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 80%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 80%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 70%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 75%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 90%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 90%"
+         }
+      ]
+   },
+   {
+      "value": "PEACH",
+      "title": "Peach",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 40%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 50%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 40%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 45%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 35%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - X"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 70%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 45%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 60%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 60%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 65%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 60%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 60%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 65%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 70%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 65%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 70%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 70%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 80%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 65%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 80%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 70%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 80%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 80%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 80%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 75%"
+         }
+      ]
+   },
+   {
+      "value": "ICE_CLIMBERS",
+      "title": "Ice Climbers",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 35%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 40%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 40%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 60%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 45%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 30%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - X"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 40%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 65%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 45%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 60%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 45%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 40%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 40%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 65%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 60%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 80%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 70%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 70%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 60%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 80%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 65%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 70%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 80%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 90%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 70%"
+         }
+      ]
+   },
+   {
+      "value": "CAPTAIN_FALCON",
+      "title": "Captain Falcon",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 40%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 35%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 50%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 45%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 50%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 55%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 60%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - X"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 50%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 70%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 60%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 70%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 55%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 70%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 60%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 60%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 70%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 70%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 70%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 75%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 80%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 80%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 80%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 65%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 80%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 70%"
+         }
+      ]
+   },
+   {
+      "value": "PIKACHU",
+      "title": "Pikachu",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 40%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 40%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 50%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 45%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 35%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 40%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 35%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 50%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - X"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 50%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 55%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 50%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 55%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 65%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 60%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 60%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 70%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 65%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 70%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 70%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 80%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 70%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 70%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 60%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 75%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 75%"
+         }
+      ]
+   },
+   {
+      "value": "SAMUS",
+      "title": "Samus",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 50%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 50%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 40%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 40%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 35%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 40%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 55%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 30%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 50%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - X"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 50%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 60%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 55%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 45%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 65%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 60%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 70%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 55%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 70%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 70%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 70%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 60%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 70%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 70%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 80%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 80%"
+         }
+      ]
+   },
+   {
+      "value": "DR._MARIO",
+      "title": "Dr. Mario",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 40%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 40%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 30%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 30%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 40%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 35%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 40%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 40%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 45%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 50%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - X"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 50%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 45%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 45%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 55%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 50%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 60%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 60%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 70%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 55%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 60%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 60%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 70%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 70%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 80%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 75%"
+         }
+      ]
+   },
+   {
+      "value": "YOSHI",
+      "title": "Yoshi",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 35%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 40%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 45%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 30%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 40%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 40%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 55%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 30%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 50%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 40%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 50%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - X"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 50%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 55%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 60%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 55%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 65%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 60%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 70%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 70%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 70%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 70%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 70%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 70%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 80%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 80%"
+         }
+      ]
+   },
+   {
+      "value": "LUIGI",
+      "title": "Luigi",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 40%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 35%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 35%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 35%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 40%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 40%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 60%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 45%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 45%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 45%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 55%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 50%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - X"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 50%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 60%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 55%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 60%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 65%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 55%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 60%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 70%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 60%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 70%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 65%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 80%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 60%"
+         }
+      ]
+   },
+   {
+      "value": "GANONDORF",
+      "title": "Ganondorf",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 30%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 30%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 35%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 30%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 35%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 35%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 60%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 30%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 35%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 55%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 55%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 45%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 50%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - X"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 60%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 50%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 60%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 60%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 70%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 70%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 70%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 80%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 70%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 65%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 75%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 70%"
+         }
+      ]
+   },
+   {
+      "value": "MARIO",
+      "title": "Mario",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 30%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 30%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 25%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 30%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 30%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 30%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 35%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 40%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 40%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 35%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 45%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 40%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 40%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 40%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - X"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 45%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 50%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 50%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 60%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 50%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 60%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 60%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 60%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 60%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 70%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 70%"
+         }
+      ]
+   },
+   {
+      "value": "YOUNG_LINK",
+      "title": "Young Link",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 30%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 30%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 35%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 30%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 40%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 35%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 40%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 40%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 40%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 40%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 50%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 45%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 45%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 50%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 55%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - X"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 60%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 55%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 60%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 60%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 60%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 70%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 60%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 60%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 70%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 65%"
+         }
+      ]
+   },
+   {
+      "value": "DONKEY_KONG",
+      "title": "Donkey Kong",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 30%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 30%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 30%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 30%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 30%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 30%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 20%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 30%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 30%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 30%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 40%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 35%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 40%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 40%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 50%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 40%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - X"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 45%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 65%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 50%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 60%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 65%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 70%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 55%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 70%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 40%"
+         }
+      ]
+   },
+   {
+      "value": "LINK",
+      "title": "Link",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 30%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 35%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 40%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 30%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 35%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 30%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 30%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 30%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 35%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 45%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 40%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 40%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 35%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 40%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 50%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 45%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 55%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - X"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 70%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 60%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 70%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 60%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 60%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 50%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 70%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 70%"
+         }
+      ]
+   },
+   {
+      "value": "MR._GAME_AND_WATCH",
+      "title": "Mr. Game and Watch",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 20%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 30%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 20%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 20%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 30%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 20%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 30%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 30%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 30%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 30%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 30%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 30%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 45%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 30%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 40%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 40%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 35%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 30%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - X"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 50%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 55%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 60%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 60%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 50%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 70%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 70%"
+         }
+      ]
+   },
+   {
+      "value": "ROY",
+      "title": "Roy",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 30%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 30%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 20%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 20%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 30%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 35%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 40%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 25%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 30%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 30%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 45%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 30%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 40%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 30%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 50%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 40%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 50%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 40%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 50%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - X"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 70%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 60%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 60%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 45%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 70%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 70%"
+         }
+      ]
+   },
+   {
+      "value": "MEWTWO",
+      "title": "Mewtwo",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 20%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 20%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 20%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 20%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 20%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 20%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 20%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 20%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 20%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 30%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 40%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 30%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 40%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 30%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 40%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 40%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 40%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 30%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 45%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 30%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - X"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 60%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 55%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 50%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 70%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 65%"
+         }
+      ]
+   },
+   {
+      "value": "ZELDA",
+      "title": "Zelda",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 20%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 30%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 20%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 20%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 20%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 30%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 35%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 20%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 30%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 40%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 40%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 30%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 30%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 20%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 40%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 30%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 35%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 40%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 40%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 40%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 40%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - X"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 55%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 50%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 65%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 70%"
+         }
+      ]
+   },
+   {
+      "value": "NESS",
+      "title": "Ness",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 20%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 20%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 20%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 25%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 30%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 20%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 30%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 20%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 30%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 30%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 30%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 30%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 30%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 30%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 40%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 40%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 30%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 40%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 40%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 40%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 45%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 45%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - X"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 50%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 65%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 65%"
+         }
+      ]
+   },
+   {
+      "value": "PICHU",
+      "title": "Pichu",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 30%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 35%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 35%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 25%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 25%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 20%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 20%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 40%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 35%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 30%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 30%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 30%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 35%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 35%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 40%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 40%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 45%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 50%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 50%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 55%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 50%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 50%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 50%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - X"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 70%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 65%"
+         }
+      ]
+   },
+   {
+      "value": "BOWSER",
+      "title": "Bowser",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 10%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 10%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 20%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 10%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 10%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 20%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 10%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 20%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 25%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 20%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 20%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 20%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 20%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 25%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 30%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 30%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 30%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 30%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 30%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 30%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 30%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 35%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 35%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 30%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - X"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - 35%"
+         }
+      ]
+   },
+   {
+      "value": "KIRBY",
+      "title": "Kirby",
+      "opponent": [
+         {
+            "value": "FOX",
+            "title": "Fox - 20%"
+         },
+         {
+            "value": "FALCO",
+            "title": "Falco - 25%"
+         },
+         {
+            "value": "MARTH",
+            "title": "Marth - 20%"
+         },
+         {
+            "value": "SHEIK",
+            "title": "Sheik - 20%"
+         },
+         {
+            "value": "JIGGLYPUFF",
+            "title": "Jigglypuff - 10%"
+         },
+         {
+            "value": "PEACH",
+            "title": "Peach - 25%"
+         },
+         {
+            "value": "ICE_CLIMBERS",
+            "title": "Ice Climbers - 30%"
+         },
+         {
+            "value": "CAPTAIN_FALCON",
+            "title": "Captain Falcon - 30%"
+         },
+         {
+            "value": "PIKACHU",
+            "title": "Pikachu - 25%"
+         },
+         {
+            "value": "SAMUS",
+            "title": "Samus - 20%"
+         },
+         {
+            "value": "DR._MARIO",
+            "title": "Dr. Mario - 25%"
+         },
+         {
+            "value": "YOSHI",
+            "title": "Yoshi - 20%"
+         },
+         {
+            "value": "LUIGI",
+            "title": "Luigi - 40%"
+         },
+         {
+            "value": "GANONDORF",
+            "title": "Ganondorf - 25%"
+         },
+         {
+            "value": "MARIO",
+            "title": "Mario - 30%"
+         },
+         {
+            "value": "YOUNG LINK",
+            "title": "Young Link - 35%"
+         },
+         {
+            "value": "DONKEY_KONG",
+            "title": "Donkey Kong - 60%"
+         },
+         {
+            "value": "LINK",
+            "title": "Link - 30%"
+         },
+         {
+            "value": "MR._GAME_AND_WATCH",
+            "title": "Mr. Game and Watch - 30%"
+         },
+         {
+            "value": "ROY",
+            "title": "Roy - 30%"
+         },
+         {
+            "value": "MEWTWO",
+            "title": "Mewtwo - 35%"
+         },
+         {
+            "value": "ZELDA",
+            "title": "Zelda - 30%"
+         },
+         {
+            "value": "NESS",
+            "title": "Ness - 35%"
+         },
+         {
+            "value": "PICHU",
+            "title": "Pichu - 35%"
+         },
+         {
+            "value": "BOWSER",
+            "title": "Bowser - 65%"
+         },
+         {
+            "value": "KIRBY",
+            "title": "Kirby - X"
+         }
+      ]
+   }
+]
