@@ -660,7 +660,7 @@
       ]
    },
    {
-      "value": "ICE_CLIMBERS",
+      "value": "ICE CLIMBERS",
       "title": "Ice Climbers",
       "opponent": [
          {
@@ -770,7 +770,7 @@
       ]
    },
    {
-      "value": "CAPTAIN_FALCON",
+      "value": "CAPTAIN FALCON",
       "title": "Captain Falcon",
       "opponent": [
          {
@@ -1100,7 +1100,7 @@
       ]
    },
    {
-      "value": "DR._MARIO",
+      "value": "DR. MARIO",
       "title": "Dr. Mario",
       "opponent": [
          {
@@ -1650,7 +1650,7 @@
       ]
    },
    {
-      "value": "YOUNG_LINK",
+      "value": "YOUNG LINK",
       "title": "Young Link",
       "opponent": [
          {
@@ -1760,7 +1760,7 @@
       ]
    },
    {
-      "value": "DONKEY_KONG",
+      "value": "DONKEY KONG",
       "title": "Donkey Kong",
       "opponent": [
          {
@@ -1980,7 +1980,7 @@
       ]
    },
    {
-      "value": "MR._GAME_AND_WATCH",
+      "value": "MR. GAME AND WATCH",
       "title": "Mr. Game and Watch",
       "opponent": [
          {
